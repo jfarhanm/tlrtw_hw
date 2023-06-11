@@ -3,9 +3,9 @@ Raspberry pico firmware for tlrtw
 
 # TLRTW
 TLRTW is this small , kinda childish robot that I am building to teach myself hardware communication protocols and to explore all the 
-avalibale functionality of the raspberry pico dev boards.
+avaliable functionality of the raspberry pico dev boards.
 
-Its has a raspberry pi zero on board which does all the brain and has a raspberry pico for all the brawn. Currently communcation is done via SPI among these boards.
+Its has a raspberry pi zero on board for a  brain and a raspberry pico for the brawn. Currently communcation is done via SPI among these boards.
 The raspberry  pi zero has cameras attached to it which shall be used for computer vision algorithms.
 
 # Meet tlrtw
