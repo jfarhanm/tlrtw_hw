@@ -1,7 +1,7 @@
 # tlrtw_hw
 Raspberry pico firmware for tlrtw 
 
-# TLRTW
+# tlrtw
 TLRTW is this small , kinda childish robot that I am building to teach myself hardware communication protocols and to explore all the 
 avaliable functionality of the raspberry pico dev boards.
 
